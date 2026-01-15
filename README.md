@@ -18,12 +18,11 @@
 
 ### 📚 **Learning:**
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
 ## 📈 GitHub Stats
-![Jenny's GitHub stats](https://github-readme-stats.vercel.app/api?username=23236787——eng&show_icons=true&theme=default)
+![Jenny's GitHub stats](https://github-readme-stats.vercel.app/api?username=23236787%E2%80%94%E2%80%94eng&show_icons=true&theme=default)
 
-## 💻 Programming Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=23236787——eng&layout=compact&theme=radical)
+## 🗣️ Languages I Can Speak
+**Cantonese** 🇭🇰 | **Mandarin** 🇨🇳 | **English** 🇺🇸
 
 ## 📫 Connect with Me
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:23236787@life.hkbu.edu.hk)
