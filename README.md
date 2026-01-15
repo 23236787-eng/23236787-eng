@@ -20,7 +20,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ## 🗣️ Languages I Can Speak
-**Cantonese** 🇭🇰 | **Mandarin** 🇨🇳 | **English** 🇺🇸
+**Cantonese**  | **Mandarin**  | **English** 
 
 ## 📫 Connect with Me
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:23236787@life.hkbu.edu.hk)
