@@ -1,4 +1,4 @@
-# Hi there, I'm Fu Jia Yi (Jenny) 👋
+Hi there, I'm Fu Jia Yi (Jenny) 👋
 
 ##  About Me
 - 🔭 I'm currently studying on a transdisplinary programme in Hong Kong Baptist University called Bacheler of Science in Innovation in Health and Social Well-being of 3rd year.  
@@ -18,8 +18,6 @@
 
 ### 📚 **Learning:**
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-## 📈 GitHub Stats
-![Jenny's GitHub stats](https://github-readme-stats.vercel.app/api?username=23236787%E2%80%94%E2%80%94eng&show_icons=true&theme=default)
 
 ## 🗣️ Languages I Can Speak
 **Cantonese** 🇭🇰 | **Mandarin** 🇨🇳 | **English** 🇺🇸
