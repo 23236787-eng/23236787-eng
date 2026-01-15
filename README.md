@@ -1,4 +1,4 @@
-Hi there, I'm Fu Jia Yi (Jenny) 👋
+# Hi there, I'm Fu Jia Yi (Jenny) 👋
 
 ##  About Me
 - 🔭 I'm currently studying on a transdisplinary programme in Hong Kong Baptist University called Bacheler of Science in Innovation in Health and Social Well-being of 3rd year.  
