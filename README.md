@@ -1,6 +1,6 @@
 # Hi there, I'm Fu Jia Yi (Jenny) 👋
 
-## 🚀 About Me
+##  About Me
 - 🔭 I'm currently studying on a transdisplinary programme in Hong Kong Baptist University called Bacheler of Science in Innovation in Health and Social Well-being of 3rd year.  
 - 👯 I'm looking to collaborate on software engineering and UI design. 
 - High interest and ability on UI design. 
